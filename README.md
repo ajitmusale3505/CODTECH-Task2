@@ -19,4 +19,7 @@ Add Items: Allow users to add new library items, specifying details such as titl
 Update Items: Enable updating item information, including availability status, condition, and location.
 Remove Items: Provide a mechanism to remove items from the library, ensuring proper record keeping and disposal.
 
+![Screenshot 2024-09-12 101900](https://github.com/user-attachments/assets/a25c78da-39c7-489c-a92e-0c77648d8b22)
+
+
 
