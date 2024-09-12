@@ -1,8 +1,8 @@
-Name: Musale Ajit Anaa
-Company: CODTECH IT SOLUTIONS
-ID: CT12DS2319
-Domain: Python Programming
-Duration: sep 5th to Nov 5th
+Name: Musale Ajit Anaa,
+Company: CODTECH IT SOLUTIONS,
+ID: CT12DS2319,
+Domain: Python Programming,
+Duration: sep 5th to Nov 5th,
 Mentor:-
 
 Overview of the Project
